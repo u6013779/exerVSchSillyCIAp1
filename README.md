@@ -11,6 +11,7 @@
 https://coursework.vschool.io/silly-cia-part-1/
 
 ## Link to repl page
+* This tutorial shows how to import a GitHub repository into repl: https://www.youtube.com/watch?v=UbPaMZQLDzY
 * Repl will allow you to share links to html files you create in repl as regular web pages. 
 * The link for displaying an html file as a regular web page is found right above the output in the repl html editor. 
 * Please submit the link to your web page in Canvas.
