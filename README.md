@@ -14,9 +14,10 @@ https://coursework.vschool.io/silly-cia-part-1/
 
 ## Turn on GitHub Pages
 
+This tutorial shows how to turn on GitHub Pages: Getting Started with GitHub Pages (12 min) https://www.youtube.com/watch?v=QyFcl_Fba-k
+
 You don't need to complete all the steps of this tutorial. You really only need to push the pages you create to your main repository (time index 02:20) and turn on GitHub Pages in the settings (time index 03:22). The rest of it is a great demonstration of how to use branches in your projects and how to use different branches to host a site should you ever want to try that in the future.
 
-* This tutorial shows how to turn on GitHub Pages: Getting Started with GitHub Pages (12 min) https://www.youtube.com/watch?v=QyFcl_Fba-k
 * 00:00 Introduction 
 * 00:47 Create a new GitHub repository (you can skip this since you already have one) 
 * 01:10 Clone your repository (create a copy on your computer)
