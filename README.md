@@ -29,3 +29,7 @@ You don't need to complete all the steps of this tutorial. You really only need 
 * 05:39 Push changes to your new branch to GitHub
 * 06:12 Make a pull request from your new branch to the main branch
 * 07:26 Switch which branch is serving the site
+
+## Working with Files and Folders and GitHub Pages in GitHub
+
+This tutorial shows some ways of working with files and folders when working with web content. I also demonstrate turning on GitHub Pages to display rendered web content. https://youtu.be/xivy_tPJxBA
