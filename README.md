@@ -32,4 +32,4 @@ You don't need to complete all the steps of this tutorial. You really only need 
 
 ## Working with Files and Folders and GitHub Pages in GitHub
 
-This tutorial shows some ways of working with files and folders when working with web content. I also demonstrate turning on GitHub Pages to display rendered web content. https://youtu.be/xivy_tPJxBA
+This tutorial shows some ways of working with files and folders when working with web content in GitHub. I also demonstrate turning on GitHub Pages to display rendered web content. https://youtu.be/xivy_tPJxBA
